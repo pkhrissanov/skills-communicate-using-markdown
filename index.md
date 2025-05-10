@@ -13,3 +13,10 @@ I'm learning markdown in this
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+
+## Here is the task list
+- [ ] Finish the laundry
+- [ ] Go to work
+- [ ] Finish this github exercise
+      
