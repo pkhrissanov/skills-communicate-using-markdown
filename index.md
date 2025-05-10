@@ -10,3 +10,6 @@ I'm learning markdown in this
 
 ![This is text that gets read aloud.]![IMG_0944](https://github.com/user-attachments/assets/2d7f4663-f15d-4204-bdb2-deefd0b3e11f)
 
+``` javascript
+var myVar = "Hello, world!";
+```
